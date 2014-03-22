@@ -4,7 +4,6 @@ title: 关于
 footer: false
 ---
 
-{% img right http://art.yanping.me/images/avatar.jpg %}
 
 
 <p>资浅媒体人，堆文字的金融攻城师，不靠谱的经济分析师，IT文艺小青年，舞者中的程序猿。</p>
